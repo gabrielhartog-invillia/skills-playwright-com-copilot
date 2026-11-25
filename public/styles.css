@@ -10,7 +10,7 @@ h1 {
   font-size: 2rem;
 }
 
-form {
+form:not([hidden]) {
   display: flex;
   gap: 0.5rem;
   margin-top: 1.5rem;

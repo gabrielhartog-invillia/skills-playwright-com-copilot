@@ -19,4 +19,11 @@
 - Explore o [Playwright Trace Viewer](https://playwright.dev/docs/trace-viewer) para depurar testes — peça ao Copilot para te ensinar.
 - Compartilhe seu repositório com colegas e proponha desafios novos para a IA. 🚀
 
+### Bônus opcional: descadastro da Newsletter
+
+Como atividade opcional, implemente a simulação de descadastro com os
+[requisitos do bônus](./bonus-unsubscribe-requirements.md) e o
+[fluxo com agentes e TDD](./bonus-agents-unsubscribe.md). Este bônus não faz
+parte do exercício obrigatório e mantém o estado somente em memória.
+
 > Se este exercício foi útil, dá uma estrela ⭐ no repositório original!
